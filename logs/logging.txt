@@ -1,0 +1,9 @@
+Your conversation log:
+You: hi
+AI: Hello! How can I assist you today?
+You: I am taiwo
+AI: Hello, Taiwo! It's nice to meet you. How can I assist you today?
+You:  I love you
+AI: Thank you, Taiwo! I appreciate your kind words. If there's anything you need help with or want to talk about, feel free to let me know!
+End of conversation
+----------------------------------------
